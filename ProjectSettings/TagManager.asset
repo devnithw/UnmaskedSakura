@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - cloud
+  - NotPlayer
+  - bgmusic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Blocks
+  - Objects
+  - Backgrounds
+  - NPCs
+  - TriggerColliders
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background-far
+    uniqueID: 2767722169
+    locked: 0
+  - name: walls
+    uniqueID: 1876290667
+    locked: 0
+  - name: Background-near
+    uniqueID: 650078175
+    locked: 0
+  - name: Middle ground
+    uniqueID: 60797545
+    locked: 0
+  - name: Foreground
+    uniqueID: 2348039599
+    locked: 0
+  - name: Overlays
+    uniqueID: 435088975
+    locked: 0

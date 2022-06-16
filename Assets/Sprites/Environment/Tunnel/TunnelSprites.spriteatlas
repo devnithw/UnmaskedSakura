@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TunnelSprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: cde5dad39569805469e860676847389f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 6225767184515317341, guid: cde5dad39569805469e860676847389f, type: 3}
+  - {fileID: -5808443859968989733, guid: cde5dad39569805469e860676847389f, type: 3}
+  - {fileID: -5940551810246903278, guid: cde5dad39569805469e860676847389f, type: 3}
+  - {fileID: -7987745745510843009, guid: cde5dad39569805469e860676847389f, type: 3}
+  - {fileID: -6705639023677779174, guid: cde5dad39569805469e860676847389f, type: 3}
+  - {fileID: 2439721830314071076, guid: cde5dad39569805469e860676847389f, type: 3}
+  - {fileID: 7223666002751983023, guid: cde5dad39569805469e860676847389f, type: 3}
+  - {fileID: -1472107814103157282, guid: cde5dad39569805469e860676847389f, type: 3}
+  - {fileID: -4039708861852059317, guid: cde5dad39569805469e860676847389f, type: 3}
+  - {fileID: 6568891082516879021, guid: cde5dad39569805469e860676847389f, type: 3}
+  - {fileID: 3929824364152350610, guid: cde5dad39569805469e860676847389f, type: 3}
+  - {fileID: -7076957733567873846, guid: cde5dad39569805469e860676847389f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tunnel_11
+  - tunnel_10
+  - tunnel_8
+  - tunnel_9
+  - tunnel_0
+  - tunnel_1
+  - tunnel_2
+  - tunnel_3
+  - tunnel_4
+  - tunnel_5
+  - tunnel_6
+  - tunnel_7
+  m_RenderDataMap: {}
+  m_Tag: TunnelSprites
+  m_IsVariant: 0
